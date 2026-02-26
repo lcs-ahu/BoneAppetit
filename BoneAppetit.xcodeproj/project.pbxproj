@@ -52,7 +52,6 @@
 				570496BC2F508A3D00186F42 /* Assets.xcassets */,
 				570496BD2F508A3D00186F42 /* BoneAppetitApp.swift */,
 				570496C32F508A4800186F42 /* Views */,
-				570496BE2F508A3D00186F42 /* CohortsView.swift */,
 			);
 			path = BoneAppetit;
 			sourceTree = "<group>";
@@ -60,6 +59,7 @@
 		570496C32F508A4800186F42 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				570496BE2F508A3D00186F42 /* CohortsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
